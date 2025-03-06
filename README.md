@@ -4,7 +4,7 @@ Hola, soy Yhosua V. Barrios 👋
 
 ![QA Landscape](https://www.w3schools.com/w3images/fjords.jpg)
 
-Soy un **QA Developer** con experiencia en pruebas automatizadas. Trabajo con herramientas como **Selenium**, **Jenkins**, y **Postman** para asegurar la calidad del software.
+Soy un **QA Developer** con experiencia en pruebas. Trabajo con herramientas como **Bruno**, **Jenkins**, y **Postman** para asegurar la calidad del software.
 
 ## Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YhosuaVBarrios-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yhosuavbarrios)  
